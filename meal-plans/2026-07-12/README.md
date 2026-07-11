@@ -15,6 +15,8 @@ Cooking for 2 adults, with planned leftovers. Tzatziki is already made.
 
 **Weekend project:** [peach freezer jam](recipes/10-peach-freezer-jam.md) — make Saturday, jars set 24 hr, freeze Sunday.
 
+**📱 Phone version:** [claude.ai/code/artifact/37a8bf7d-4f60-4df4-9e67-e23930d8e869](https://claude.ai/code/artifact/37a8bf7d-4f60-4df4-9e67-e23930d8e869) — checkable shopping list (saves on-device), day-by-day timelines, and all recipes in one page.
+
 ## The files
 - **[Shopping list](shopping-list.md)** — one consolidated trip, grouped by store section, with a pantry-check section.
 - **[Schedule](schedule.md)** — day-by-day timing, built backward from dinner. The only hard rails: buttermilk brine 12–24 hr; taco marinade 1–24 hr.
