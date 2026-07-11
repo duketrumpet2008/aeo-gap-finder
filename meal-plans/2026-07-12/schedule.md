@@ -17,12 +17,13 @@ Times assume dinner around 6:00–7:00 pm; shift everything together if your din
 | Morning | Make hummus if you didn't Saturday. Chicken should already be marinating. |
 | 3:00 pm | Mix **pita dough** (10 min hands-on), cover, rise 1½ hr. |
 | 4:00 pm | Baking Steel/stone into the oven, preheat **550°F**. |
-| 4:30 pm | Divide dough into 6 balls; rest 30 min under a towel. |
-| 5:05 pm | Roll and bake pitas, 1–2 at a time, ~2 min each. Wrap baked pitas in a towel. |
-| 5:30 pm | Pitas done → **drop oven to 475°F** for the chicken. Pull hummus to room temp; set out tzatziki. |
-| 5:35 pm | Pat thighs dry; sear 4–5 min in a hot oven-proof skillet. |
-| 5:40 pm | Flip, tuck in lemon slices, into the oven 7–12 min (to 165°F). |
-| 5:55 pm | Finish chicken with feta + parsley. |
+| 4:30 pm | Divide dough into 6 balls (~73 g); rest 30 min under a towel. |
+| 5:00 pm | Roll each to a 6-inch round onto parchment squares; rest 15 min (per the recipe — don't skip). |
+| 5:15 pm | Bake pitas, 3 at a time on the Steel, ~2 min per batch. Into a towel-lined bowl, towel closed. |
+| 5:25 pm | Pitas done → **drop oven to 475°F** for the chicken. Pull hummus to room temp; set out tzatziki. |
+| 5:30 pm | Pat thighs dry; sear 4–5 min in a hot oven-proof skillet. |
+| 5:35 pm | Flip, scatter lemon slices in the skillet, into the oven 7–12 min (to 165°F). |
+| 5:50 pm | Rest chicken 5 min, then parsley + feta over. |
 | **6:00 pm** | **Greek Feast.** Box leftovers for Monday lunch. |
 | 8:30 pm | **Start the roast chicken:** pat dry, salt generously, sit 30 min. |
 | 9:00 pm | Into the buttermilk brine (2 cups buttermilk + 2 tbsp kosher salt) in a gallon bag, on a rimmed plate in the fridge. That's ~21 hr of brine by Monday's 5:45 pm oven — right in the 12–24 hr sweet spot. Turn the bag when you think of it. |

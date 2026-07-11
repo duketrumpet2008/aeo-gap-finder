@@ -26,7 +26,7 @@ Consolidated from all 11 recipes, cooking for 2 adults (leftovers planned: Greek
 - [ ] Fresh parsley — **1 bunch** (Greek chicken + hummus garnish)
 
 ## Meat & seafood
-- [ ] Chicken thighs, boneless skinless — **1½–2 lb** (Greek Feast; recipe serves 4 → Monday lunch leftovers)
+- [ ] Chicken thighs, boneless skinless — **6 medium (~2 lb)**, or 3 lb bone-in (Greek Feast; serves 6 → Monday lunch leftovers)
 - [ ] Whole chicken — **3½–4 lb** (buttermilk roast; do not go bigger — the brine ratio and timing assume this size)
 - [ ] Chicken breasts, boneless skinless — **2–3** (cutlets; recipe as written breads 6 — halve it, or bread extra for sandwiches)
 - [ ] Cooked shrimp/prawns, small — **~½ lb (12–14 shrimp)**, peeled & deveined (spring rolls; raw is fine too, just poach first)
@@ -35,7 +35,7 @@ Consolidated from all 11 recipes, cooking for 2 adults (leftovers planned: Greek
 
 ## Dairy, cheese & eggs
 - [ ] Buttermilk — **1 pint (2 cups)** (chicken brine)
-- [ ] Feta, crumbled — **small container** (¼ cup, Greek chicken)
+- [ ] Feta — **3 oz crumbled** (Greek chicken)
 - [ ] Burrata — **8 oz** (panzanella)
 - [ ] Parmigiano-Reggiano — **1 chunk, ~½ lb** (¼-lb shaved for arugula salad + ½ cup grated for cutlets + serving)
 - [ ] Cotija or queso fresco — **1 cup crumbled** (taco fixings)
@@ -71,6 +71,7 @@ Verify these are stocked; only buy what's missing.
 - [ ] All-purpose flour — 2 cups pita + 1 cup cutlets
 - [ ] Baking soda (hummus trick)
 - [ ] Dried oregano (Greek chicken)
+- [ ] Cayenne pepper (Greek chicken marinade — optional ½ tsp)
 - [ ] Ground cumin (hummus ½ tsp + tacos 1 tbsp)
 - [ ] Ground coriander (tacos, 1 tbsp)
 - [ ] Sumac or paprika (hummus garnish — optional)

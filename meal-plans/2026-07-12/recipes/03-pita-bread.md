@@ -1,32 +1,28 @@
-# Homemade Pita Bread
-**Source:** [Alexandra Stafford — Alexandra's Kitchen ("How to Make Fresh Homemade Pita Bread")](https://alexandracooks.com/2020/06/25/easy-homemade-pita-bread-recipe/)
-> ⚠️ Transcribed from memory — the source site was unreachable from this environment. Verify quantities against the link above before shopping/cooking.
-**Serves:** Makes 6 pitas
-**Time:** ~3 h prep (includes 1½ h rise + 30 min rest) / ~4 min cook / ~3 h 4 min total
+# How to Make Fresh Homemade Pita Bread
+**Source:** [Alexandra Stafford — Alexandra's Kitchen](https://alexandracooks.com/2020/06/25/easy-homemade-pita-bread-recipe/)
+> ✅ Verified against the published recipe (print-to-PDF provided by Alex, 7/11/26).
+**Serves:** Makes 6 pitas (vegan)
+**Time:** 3 hours 4 minutes total (1½ hr rise + 30 min rest + 15 min rest + ~2 min bake per batch)
 **Meal slot:** Sunday dinner — Greek Feast (leftovers = Monday lunch)
 
-*Matches the saved snippet: 5 ingredients (all-purpose flour, lukewarm water, instant yeast, olive oil, kosher salt), no sugar, no whole wheat, ~3 h 4 m total, rated 4.9.*
-
 ## Ingredients
-- 2 cups (256 g) all-purpose flour, plus more for dusting
-- 1 teaspoon kosher salt
-- 1 teaspoon instant yeast
-- 1 scant ¾ cup (165 g) lukewarm water
-- 1 tablespoon olive oil, plus a drizzle for coating the dough
+- 2 cups (256 grams) all-purpose flour, plus more for sprinkling
+- 1 teaspoon (5 grams) kosher salt
+- 1 teaspoon (4 grams) instant yeast (see notes for active-dry)
+- A scant ¾ cup (165 grams) lukewarm water
+- 1 tablespoon (14 grams) olive oil, plus more for drizzling
 
 ## Instructions
-1. In a large bowl, whisk together the flour, salt, and instant yeast. Add the lukewarm water and olive oil, and mix with a spatula until the flour is absorbed and you have a shaggy dough with no dry streaks.
-2. Use your hands to briefly knead the mass into a rough dough ball right in the bowl. Drizzle the ball lightly with olive oil and turn to coat.
-3. Cover the bowl with a damp tea towel or a cloth bowl cover and let the dough rise in a warm spot until doubled in size, about 1½ hours.
-4. Meanwhile (about 45 minutes to 1 hour before baking), place a Baking Steel or pizza stone on a rack in the oven and preheat to 550°F so the surface is thoroughly heated.
-5. Deflate the risen dough and turn it out onto a lightly floured work surface. Divide it into 6 roughly equal portions (about 73 g each if you have a scale). Shape each portion into a ball by pulling the edges under and rolling it against the surface until taut. Dust the balls with flour, cover with a tea towel, and let rest for 30 minutes, until slightly puffed.
-6. Working with one ball at a time on a well-floured surface, roll each into a round roughly ¼ inch thick (about 6 inches in diameter — *exact rolled dimensions uncertain; roll thin and even, without tearing, so the pockets form*).
-7. Transfer 1 or 2 rounds at a time onto the hot Steel or stone (a lightly floured pizza peel or an inverted sheet pan makes this easy). Bake for about 2 minutes — the pitas should balloon into fully puffed pockets. No need to flip.
-8. Remove and immediately wrap the baked pitas in a clean tea towel to keep them soft and pliable while you bake the rest.
-9. Stovetop alternative (no Steel/stone): heat a cast-iron skillet over medium-high until very hot. Cook each round about 1 minute, until it bubbles and begins to balloon, then flip and cook about 30 seconds more. (*Stovetop timings approximate.*)
+1. **Mix the dough:** In a large bowl, whisk together the flour, salt, and instant yeast. Add the water and oil. Stir with a spatula until a shaggy dough forms — the mixture will appear dry and unevenly mixed. Use your hands to knead the dough briefly in the bowl just until the flour is absorbed and you have a sticky ball, about 30 seconds. Drizzle a little olive oil over top, turn the dough to coat, cover the bowl with a tea towel, and transfer to a warm place to rise for 1.5 hours.
+2. **Prepare the oven:** Heat the oven with a Baking Steel or stone inside at 550°F. Cut a sheet of parchment paper into 6 small pieces, about 6 inches square.
+3. **Portion the dough:** Turn the dough out onto a lightly floured surface. Knead briefly to form a ball. Divide into 6 equal portions (~73 grams each). Ball up each portion, using the pinky edges of your fingers to create tension. Rest the portions 30 minutes.
+4. **Roll out each ball:** Flatten one ball and gently roll it out to a 6-inch round — don't roll too aggressively or you'll force out the air pockets. If a round resists, set it aside and come back to it. Transfer each round to a piece of parchment. **Rest 15 minutes.**
+5. **Bake:** Use a pizza peel to shimmy the rounds — parchment and all — onto the preheated Steel, up to 3 at a time. Set a timer for 2 minutes. Lightly golden = done. Transfer to a tea-towel-lined bowl and close the towel. Repeat.
+6. **Store:** Room temperature in an airtight bag for 3 days, or freeze up to 3 months. Reheat before serving.
 
 ## Prep-ahead & notes
-- **Make-ahead dough:** after the first rise you can deflate the dough, cover, and refrigerate it (up to about 2 days); pull it out, divide and shape, and give the balls a slightly longer rest (45–60 min) to take the chill off before rolling. (*Fridge window per standard practice for this style of dough — verify against the source.*)
-- Baked pitas keep 1–2 days at room temperature in an airtight bag; freeze up to 3 months and refresh in a hot skillet, toaster, or 350°F oven.
-- Keeping the just-baked pitas wrapped in a towel is what keeps them soft — don't skip it.
-- Timing for the feast: start the dough about 3 hours before dinner (e.g., 3 pm for a 6 pm Greek feast); the hands-on work is only ~15 minutes.
+- **Warm rise spot:** preheat the oven for 1 minute, then shut it off.
+- **No Baking Steel/stone?** Preheat a cast-iron skillet in the oven ≥5 min and bake one round at a time, 2–3 min; or preheat a sheet pan and bake three at a time, 2–3 min.
+- **Active-dry yeast:** sprinkle over the lukewarm water, stand 15 minutes, then proceed.
+- **Whole wheat:** no more than 50% (1 cup / 128 g), and expect to add a bit more water.
+- Timing for the feast: start the dough ~3 hours before dinner (3:00 pm for 6:00 pm); hands-on work is only ~15 minutes.
