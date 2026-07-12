@@ -34,6 +34,6 @@
 8. Remove chicken from oven and let rest for at least 5 minutes before serving. Sprinkle evenly with parsley and feta.
 
 ## Prep-ahead & notes
-- **Marinating window:** at least 1 hour, up to 24 hours — mix the marinade the night before the feast.
+- **Marinating window:** at least 1 hour, up to 24 hours — for this week, get the chicken in right after the Sunday-morning shop (~11:30 am) for a 5:30 pm cook.
 - WW-friendly: 5 SmartPoints per thigh with the feta (calculated with boneless skinless thighs).
 - Leftovers keep 3–4 days refrigerated; tuck into pita with hummus for Monday lunch.

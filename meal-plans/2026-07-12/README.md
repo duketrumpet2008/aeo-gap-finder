@@ -13,7 +13,7 @@ Cooking for 2 adults, with planned leftovers. Tzatziki is already made.
 | **Thu 7/16** | [Pad kra pao](recipes/07-pad-kra-pao.md) | 🌮 [Impostor al Pastor tacos](recipes/08-pork-shoulder-tacos.md) (Alison Roman) |
 | **Fri 7/17** | — | [Parmesan chicken cutlets](recipes/09-parmesan-chicken-cutlets.md) with arugula salad |
 
-**Weekend project:** [peach freezer jam](recipes/10-peach-freezer-jam.md) — make Saturday, jars set 24 hr, freeze Sunday.
+**Weekend project:** [peach freezer jam](recipes/10-peach-freezer-jam.md) — make Sunday early afternoon, jars set 24 hr on the counter, freeze Monday evening.
 
 **📱 Phone version:** [claude.ai/code/artifact/37a8bf7d-4f60-4df4-9e67-e23930d8e869](https://claude.ai/code/artifact/37a8bf7d-4f60-4df4-9e67-e23930d8e869) — checkable shopping list (saves on-device), day-by-day timelines, and all recipes in one page.
 

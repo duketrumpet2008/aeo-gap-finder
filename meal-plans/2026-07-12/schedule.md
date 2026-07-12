@@ -2,19 +2,16 @@
 
 Times assume dinner around 6:00–7:00 pm; shift everything together if your dinner hour differs. The two clock-critical items all week are the **buttermilk brine (12–24 hr, no longer)** and the **taco pork marinade (1–24 hr)** — everything else is flexible.
 
-## Saturday Jul 11 (today) — shop + get ahead
-- **Anytime:** Grocery run (see `shopping-list.md`). Two stops likely: regular store + Thai/SE-Asian market for holy basil (Thai basil substitutes fine).
-- **Afternoon — peach freezer jam (~45 min active):** make the jam today so the jars finish their 24-hour room-temperature set by Sunday evening, then go to the freezer. The sugar goes in a cup at a time with 5-minute rests and must fully dissolve before the pectin — that's where the time goes. Uses the ripest peaches; save 3 firmer ones for Monday's panzanella.
-- **Optional get-aheads (each ~10 min):**
-  - Make the **hummus** (flavor improves overnight; keeps 1 week).
-  - Blend the **basil vinaigrette** for Monday's panzanella (keeps 3–4 days).
-  - Whisk the **lemon vinaigrette** jar (serves Tuesday's salad *and* Friday's cutlets).
-- **Evening (~8–9 pm):** Mix the **Greek chicken marinade** and get the thighs in — overnight is the recipe's ideal (max 24 hr, so not before 6 pm for a 6 pm Sunday dinner).
+Everything starts Sunday — shopping, prep, and the feast all happen the same day. It's a full day, but nothing overlaps: the marinade only needs 1 hour minimum, the jam sets on the counter until Monday evening, and the vinaigrettes can slide to their use-days if the afternoon gets tight.
 
-## Sunday Jul 12 — Greek Feast 🇬🇷 (dinner ~6 pm) + start the roast chicken
+## Sunday Jul 12 — shop, prep & Greek Feast 🇬🇷 (dinner ~6 pm) + start the roast chicken
 | Time | Do |
 |---|---|
-| Morning | Make hummus if you didn't Saturday. Chicken should already be marinating. |
+| Morning | **Grocery run** (see `shopping-list.md`). Two stops likely: regular store + Thai/SE-Asian market for holy basil (Thai basil substitutes fine). |
+| ~11:30 am | **Marinate the Greek chicken** — the earlier the better (recipe minimum is 1 hr; by 4:30 pm at the absolute latest). |
+| ~12:00 pm | **Hummus** (40 min). Flavor improves as it sits — done by lunch, perfect by dinner. |
+| ~1:00 pm | **Peach freezer jam** (~45 min): sugar goes in a cup at a time with 5-min rests and must fully dissolve before the pectin. Jars then sit on the counter 24 hr → freezer Monday evening. Ripest peaches to the jam; save 3 firmer ones for Monday's panzanella. |
+| ~2:00 pm | Optional get-aheads (~10 min each): blend the **basil vinaigrette** (Monday); whisk the **lemon vinaigrette** jar (Tuesday + Friday). Both can also wait for their day. |
 | 3:00 pm | Mix **pita dough** (10 min hands-on), cover, rise 1½ hr. |
 | 4:00 pm | Baking Steel/stone into the oven, preheat **550°F**. |
 | 4:30 pm | Divide dough into 6 balls (~73 g); rest 30 min under a towel. |
@@ -41,10 +38,11 @@ Times assume dinner around 6:00–7:00 pm; shift everything together if your din
 | 6:30 pm | Slice peaches, halve tomatoes. |
 | 6:45 pm | Check for 165°F in the thigh / clear juices → rest chicken 10 min. Assemble panzanella: peaches + tomatoes onto dressed bread, burrata on top, more vinaigrette, basil, flaky salt. |
 | **7:00 pm** | **Dinner.** Afterward: strip and refrigerate leftover meat (on the bone stays moister), **save the carcass** for stock. |
+| Evening | **Jam jars → freezer** (they've had their 24-hr counter set). Keep one in the fridge. |
 
 ## Tuesday Jul 14 — leftover roast chicken, arugula salad & broccoli (~20 min, dinner ~6:30 pm)
 - 6:10 pm — Steam or roast the broccoli (roast: 425°F, ~15 min with olive oil and salt).
-- 6:15 pm — Toss arugula with the **lemon vinaigrette** (made Saturday, or whisk now — 5 min); shave Parmesan over.
+- 6:15 pm — Toss arugula with the **lemon vinaigrette** (made Sunday, or whisk now — 5 min); shave Parmesan over.
 - 6:20 pm — Rewarm chicken gently (covered, 300°F oven ~15 min) or serve room temp.
 - **Tonight's 2-min favor to Wednesday-you:** if the shrimp are frozen, move them to the fridge to thaw.
 
@@ -78,6 +76,6 @@ Times assume dinner around 6:00–7:00 pm; shift everything together if your din
 - **One vinaigrette, two dinners:** the lemon vinaigrette jar covers Tuesday and Friday.
 - **Hard timing rails:** buttermilk brine 12–24 hr (start Sun ~9 pm, roast Mon evening — don't push to Tuesday); taco pork marinade max 24 hr (start Wed evening for Thu dinner).
 - **Oven relay Sunday:** pitas at 550°F first, then the same hot oven drops to 475°F for the chicken — no conflict, ~5 min apart.
-- **Peaches:** ripest → Saturday jam; 2 firmer ones → Monday panzanella.
+- **Peaches:** ripest → Sunday jam; 3 firmer ones → Monday panzanella.
 - **Carcass:** Monday's chicken frame = weekend stock if you want it.
 - **Panzanella waits for no one:** dress and assemble only at 6:45 Monday; it goes soggy within hours.

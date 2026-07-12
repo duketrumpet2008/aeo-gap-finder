@@ -27,7 +27,7 @@
 7. Scrape the hummus into a serving bowl or platter, and use a spoon to create nice swooshes on top. Top with garnishes of your choice, and serve.
 
 ## Prep-ahead & notes
-- Makes ahead beautifully — ideal to make Saturday or Sunday morning for the feast. **Leftover hummus keeps well in the refrigerator, covered, for up to 1 week.**
+- Makes ahead beautifully — make it Sunday around midday and it's perfect by the feast. **Leftover hummus keeps well in the refrigerator, covered, for up to 1 week.**
 - Recipe adapted from Michael Solomonov (via NYT and Bon Appétit) and Yotam Ottolenghi.
 - **Dry-chickpea option (from the source):** boil 5 oz (¾ cup) dried chickpeas with ½ tsp baking soda in plenty of water until very mushy and falling apart, ~1 hr to 1 hr 15 min, skimming foam; drain, rinse, and start the recipe at step 2.
 - The two keys to the ultra-creamy texture: the baking-soda simmer until skins fall off, and blending the tahini with **ice-cold** water until pale and whipped.

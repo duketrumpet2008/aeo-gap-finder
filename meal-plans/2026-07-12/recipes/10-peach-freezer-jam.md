@@ -3,7 +3,7 @@
 > ✅ Verified against the published recipe (print-to-PDF provided by Alex, 7/11/26).
 **Serves:** Makes about 7 cups (56 servings of 2 tablespoons, 68 kcal each)
 **Time:** 40 min prep / 5 min cook / 45 min total, plus 24 hours standing at room temperature before freezing
-**Meal slot:** Make-ahead project (Saturday)
+**Meal slot:** Make-ahead project (Sunday early afternoon)
 
 **Equipment:** half-pint mason jars or plastic/glass freezer-safe containers with tight lids (7–8 for the full yield)
 
@@ -27,4 +27,4 @@
 - **Runny jam troubleshooting:** repeat step 4 with another ½–1 box of pectin.
 - The ½-inch headspace prevents cracked jars as the jam expands in the freezer.
 - Recipe adapted from Sure-Jell — if your pectin box insert differs (different brand, low-sugar, instant, or liquid pectin), follow the insert's ratios.
-- For this week: make Saturday afternoon → jars set on the counter until Sunday evening → freezer (keep one in the fridge).
+- For this week: make Sunday ~1 pm → jars set on the counter until Monday evening → freezer (keep one in the fridge).
