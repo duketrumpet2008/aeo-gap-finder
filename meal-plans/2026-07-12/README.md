@@ -23,6 +23,4 @@ Cooking for 2 adults, with planned leftovers. Tzatziki is already made.
 - **[recipes/](recipes/)** — one file per dish.
 
 ## Provenance
-- `08`, `09`, `11` were transcribed word-for-word from photographed cookbook pages (Alison Roman's *Dining In*; Ina Garten). Highest fidelity.
-- `10-peach-freezer-jam` and the other linked recipes were **reconstructed from memory** — this environment's network policy blocked fetching the recipe sites. Every reconstructed file carries a ⚠️ warning under its source link and flags any quantity that's uncertain. Ingredient lists are solid for shopping; double-check flagged quantities against the source link on your phone before cooking.
-- `00-tzatziki` — already made, note only.
+✅ **All 11 recipes are verified against their published sources.** `08`, `09`, `11` were transcribed word-for-word from photographed cookbook pages (Alison Roman's *Dining In*; Ina Garten); the other eight were initially reconstructed from memory (this environment's network policy blocked recipe sites), then verified and corrected against print-to-PDFs of each source page. `00-tzatziki` — already made, note only.

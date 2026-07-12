@@ -4,7 +4,7 @@ Times assume dinner around 6:00–7:00 pm; shift everything together if your din
 
 ## Saturday Jul 11 (today) — shop + get ahead
 - **Anytime:** Grocery run (see `shopping-list.md`). Two stops likely: regular store + Thai/SE-Asian market for holy basil (Thai basil substitutes fine).
-- **Afternoon — peach freezer jam (~30 min active):** make the jam today so the jars finish their 24-hour room-temperature set by Sunday evening, then go to the freezer. Uses the ripest peaches; save 2 firmer ones for Monday's panzanella.
+- **Afternoon — peach freezer jam (~45 min active):** make the jam today so the jars finish their 24-hour room-temperature set by Sunday evening, then go to the freezer. The sugar goes in a cup at a time with 5-minute rests and must fully dissolve before the pectin — that's where the time goes. Uses the ripest peaches; save 3 firmer ones for Monday's panzanella.
 - **Optional get-aheads (each ~10 min):**
   - Make the **hummus** (flavor improves overnight; keeps 1 week).
   - Blend the **basil vinaigrette** for Monday's panzanella (keeps 3–4 days).
@@ -51,8 +51,8 @@ Times assume dinner around 6:00–7:00 pm; shift everything together if your din
 ## Wednesday Jul 15 — shrimp spring rolls lunch · start taco pork tonight
 | Time | Do |
 |---|---|
-| ~11:15 am | Peanut sauce (5 min, microwave to smooth). Cook + rinse vermicelli. De-rib lettuce, pick mint, halve shrimp. |
-| ~11:40 am | Make lettuce-noodle bundles, then dip-and-roll (2-second dips!). |
+| ~11:15 am | Peanut sauce (5 min, microwave to smooth). Soak vermicelli in warm water 2 min, drain. De-rib lettuce, pick mint, peel + halve shrimp. |
+| ~11:40 am | Roll lettuce bundles (noodles + bean sprouts inside). Then wrap: 2 rice papers per roll, 2-second dip, 3 prawn halves + mint on top, bundle below. |
 | **Noon** | **Spring roll lunch.** |
 | Evening (~7–8 pm) | **Taco marinade + marinate (~30 min):** toast guajillos, soak with árbols 15 min, blend with garlic, half the onion, vinegar, salt, cumin, coriander, cubed pineapple. Season pork steaks, coat, into the fridge overnight (recipe allows up to 24 hr). Book says marinade alone can be made 2 days ahead if tonight is busy. |
 

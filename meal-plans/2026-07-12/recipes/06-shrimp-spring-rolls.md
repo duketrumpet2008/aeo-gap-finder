@@ -1,53 +1,46 @@
-# Vietnamese Rice Paper Rolls (Spring Rolls) with Shrimp
-
+# Vietnamese Rice Paper Rolls (Spring Rolls)
 **Source:** [RecipeTin Eats (Nagi)](https://www.recipetineats.com/vietnamese-rice-paper-rolls-spring-rolls/)
-> ⚠️ Transcribed from memory — the source site was unreachable from this environment. Verify quantities against the link above before shopping/cooking.
-
-**Serves:** Makes about 7 rolls (2–3 rolls per person as a light lunch)
-**Time:** ~30 min prep / ~2 min cook (noodles only) / ~35 min total (approximate — original lists roughly 30 minutes)
+> ✅ Verified against the published recipe (print-to-PDF provided by Alex, 7/11/26).
+**Serves:** 7 rolls (135 cal per roll, without sauce)
+**Time:** 20 min prep / 20 min total
 **Meal slot:** Wednesday lunch
 
 ## Ingredients
 
 **Rolls**
-- 7 sheets round rice paper (22 cm / 8.5" diameter), plus a few spares in case of tearing
-- 11–14 small cooked prawns/shrimp, peeled, deveined, and halved lengthwise (quantity uncertain — plan on ~2 prawns per roll)
-- 50 g / 1.5 oz dried vermicelli rice noodles
-- 7 soft lettuce leaves (butter/Boston lettuce or oak leaf — soft, pliable leaves work best), crunchy center rib removed
-- 1 handful fresh mint leaves (about 14–20 leaves)
+- 7–14 sheets of 22 cm / 8.5" round rice paper (Nagi's tip: **use 2 rice papers per roll** — easier to handle, less prone to tearing; ends are slightly chewier but still soft)
+- 11 small cooked prawns/shrimp (about 12 cm / 5" in length, unpeeled including the head)
+- 50 g / 1.5 oz dried vermicelli noodles
+- 7 lettuce leaves — use a lettuce with soft leaves, like oak or butter lettuce (iceberg breaks and tears the rice paper; if you only have crunchy lettuce, shred it)
+- 14 mint leaves
+- 1 cup bean sprouts
 
-**Peanut dipping sauce** (quantities are my best recollection — medium confidence)
-- 1/2 cup smooth peanut butter (crunchy also fine)
+**Vietnamese peanut dipping sauce**
+- 1 tbsp peanut butter, preferably smooth (crunchy is ok too)
 - 2 tbsp hoisin sauce
-- 2 tbsp white vinegar (or lime juice)
-- 1/3 cup milk (any fat percentage; add more as needed to thin)
-- 1 garlic clove, minced (optional)
-- Crushed peanuts, to garnish (optional)
-
-**Alternative dipping sauce — nuoc cham (Vietnamese fish sauce dip)** (the source offers a fish-sauce-based option; quantities below are a standard version — lower confidence)
-- 2 tbsp fish sauce
-- 2 tbsp lime juice
-- 2 tbsp water
-- 1 tbsp sugar (adjust to taste)
-- 1 small garlic clove, finely minced
-- 1 birds-eye chili, finely sliced (optional)
+- 1½ tbsp white vinegar (or lime juice)
+- ⅓ cup milk, any fat % (or water — milk just gives it the lighter restaurant color)
+- 1 garlic clove, minced
+- ½ tsp crushed chilli, sambal oelek or other chilli paste, adjust to taste (optional)
 
 ## Instructions
-
-1. **Peanut sauce:** Combine the peanut butter, hoisin, vinegar, milk, and garlic in a bowl. Mix — it may look split or lumpy at first. Microwave for 30 seconds, then stir until smooth. Adjust consistency with extra milk so it is a pourable dipping consistency. Transfer to a dipping bowl and top with crushed peanuts if using. (If making nuoc cham instead, simply stir all its ingredients together until the sugar dissolves.)
-2. **Vermicelli:** Cook or soak the vermicelli noodles according to packet directions (usually 2–3 minutes in boiling water). Drain, rinse under cold water, and drain well. Set aside.
-3. **Prep fillings:** Halve the prawns lengthwise (cut horizontally through the body so you get two flat halves). Remove the crunchy core/rib from each lettuce leaf so the leaves fold without cracking — this is one of the source's key tricks for tidy, non-lumpy rolls.
-4. **Make lettuce bundles:** Place a lettuce leaf flat on the work surface. Put a small pile of vermicelli noodles and a few mint leaves on it, then fold/roll the lettuce around the noodles into a neat little parcel roughly 10 cm long. Wrapping the loose fillings inside the lettuce first makes the rolls tight, neat, and much easier to roll. Repeat to make 7 bundles.
-5. **Soften rice paper:** Fill a large shallow bowl or pie dish with warm water. Briefly dip one rice paper sheet in the water — just 2 seconds or so, in and out. It should still feel slightly firm; it will continue to soften as you work. (Over-soaking makes it sticky, fragile, and hard to handle.) Lay it flat on a board (the smoother side down so the prettier side faces out).
-6. **Assemble:** On the top third of the rice paper, lay 2–3 prawn halves in a row, cut side up (so the orange side shows through the finished roll). Add a mint leaf or two next to the prawns if you like. Place a lettuce bundle seam-side down on the lower-middle part of the wrapper.
-7. **Roll:** Fold the bottom edge of the rice paper up over the lettuce bundle, tuck it in snugly, fold in both sides, then continue rolling firmly up and over the prawns to seal. The rice paper is self-sealing.
-8. Repeat with the remaining wrappers and fillings. Serve at room temperature with the peanut dipping sauce (and/or nuoc cham).
+1. **Peanut sauce:** combine the ingredients. Mix briefly (it won't come together), then microwave 30 seconds. Mix again until smooth. Set aside to cool. Adjust sour with vinegar, salt with salt, spiciness to taste; adjust thickness with milk or water once cooled.
+2. **Vermicelli:** place in a bowl, cover with warm water for 2 minutes, then drain (or follow packet directions).
+3. **Prawns:** peel, slice in half lengthwise, and devein.
+4. **Lettuce:** remove the crunchy core/rib of each leaf.
+5. **Lettuce bundles:** place some vermicelli noodles and bean sprouts in a lettuce leaf, then roll it up, finishing seam side down. Repeat. (Scrunch lightly so it stays together — this is the trick that makes rolling easy.)
+6. Fill a large bowl with warm water (it doesn't need to fit the whole rice paper at once).
+7. Place two rice papers together (if using 2). Note the smooth side — that's the outside of the roll. Submerge both together for **2 seconds** (rotate and count 2 seconds per section if the bowl is small).
+8. Lay the papers (stuck together) on a board, smooth side down.
+9. On the top part of the rice paper, place 3 prawn halves with a mint leaf in between.
+10. Place a lettuce bundle seam side down onto the middle of the rice paper.
+11. Fold the left and right edges in, then starting from the bottom, roll up over the lettuce bundle and keep rolling firmly. The rice paper is sticky and seals itself.
+12. Done right, the prawns and mint show through the smooth side, seam on the side or underside.
+13. Serve immediately with the peanut dipping sauce.
 
 ## Prep-ahead & notes
-
-- **Rolling tips from the source:** the two big tricks are (1) only a very brief dip of the rice paper — it keeps softening after you take it out of the water — and (2) bundling the noodles and mint inside the lettuce leaf first so the fillings don't burst through and the rolls look neat.
-- **Prep ahead:** the peanut sauce keeps for up to about a week in the fridge (it contains milk — my recollection is the source says several days to a week; thin with milk again before serving). Fillings (cooked noodles, prepped lettuce, halved prawns, picked mint) can all be prepped hours ahead and stored covered in the fridge; assemble rolls close to serving.
-- **Storage of assembled rolls:** rice paper rolls are best fresh. They can be kept a few hours (some say up to overnight) covered with a damp paper towel and plastic wrap in the fridge so the wrappers don't dry out and harden. Don't let the rolls touch each other or they stick together.
-- **Substitutions:** cooked shredded chicken, pork, or tofu can replace the prawns; other soft herbs (coriander/cilantro, Thai basil, garlic chives) can join or replace the mint. Julienned carrot or cucumber and bean sprouts are common additions.
-- **Gluten-free:** naturally gluten-free if you check the hoisin sauce (or use the nuoc cham).
-- Uncertainty flags: exact prawn count, exact vermicelli weight, and exact peanut-sauce ratios are from memory — verify against the source before shopping.
+- **Storage (Nagi is specific about this):** don't use the damp-paper-towel method — the rolls pick up the towel smell and don't hold up. Instead: make up to **6 hours ahead (8 max)**, tightly wrap each roll individually in cling wrap as soon as it's made, and refrigerate.
+- **DIY option:** lay all the components out on the table with a big bowl of warm water and let everyone roll their own.
+- **Peanut-free sauce alternative:** sweet chilli sauce.
+- **Other filling ideas from the source:** julienned carrot/cucumber, alfalfa or watercress, thinly sliced tofu, shredded chicken, other herbs like cilantro or chives (classic Viet).
+- **Her "original" peanut sauce** (richer; the recipe card's version above is the more authentic restaurant style): ½ cup smooth peanut butter, 1 tbsp sugar, 4 tbsp hoisin, 1 tbsp kecap manis, 2 small garlic cloves, 1 bird's-eye chilli, 1 tbsp sesame oil, 2 tbsp lime juice, water to thin.

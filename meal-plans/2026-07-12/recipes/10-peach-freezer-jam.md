@@ -1,33 +1,30 @@
 # Peach Freezer Jam
+**Source:** [Tastes Better From Scratch (Lauren Allen)](https://tastesbetterfromscratch.com/peach-freezer-jam/)
+> ✅ Verified against the published recipe (print-to-PDF provided by Alex, 7/11/26).
+**Serves:** Makes about 7 cups (56 servings of 2 tablespoons, 68 kcal each)
+**Time:** 40 min prep / 5 min cook / 45 min total, plus 24 hours standing at room temperature before freezing
+**Meal slot:** Make-ahead project (Saturday)
 
-**Source:** [Tastes Better From Scratch](https://tastesbetterfromscratch.com/peach-freezer-jam/)
-> ⚠️ Transcribed from memory — the source site was unreachable from this environment. Verify quantities against the link above before shopping/cooking.
-
-**Serves:** About 6 half-pint (8 oz) jars (roughly 48 x 2-Tbsp servings)
-**Time:** ~25 min prep / 1 min cook / ~30 min active total, plus 24 hours standing at room temperature before freezing
-**Meal slot:** make-ahead project (weekend)
+**Equipment:** half-pint mason jars or plastic/glass freezer-safe containers with tight lids (7–8 for the full yield)
 
 ## Ingredients
-- 3 cups crushed fresh peaches (from about 2 1/4 lbs / 4–6 fully ripe peaches), peeled and pitted
+- 3 cups diced fresh peaches (about 2 lbs fully ripe peaches)
+- 4½ cups granulated sugar
 - 2 Tablespoons fresh lemon juice
-- 4 1/2 cups granulated sugar
-- 3/4 cup water
-- 1 box (1.75 oz) powdered fruit pectin (such as Sure-Jell original)
+- ¾ cup water
+- 1 box Sure-Jell fruit pectin
 
 ## Instructions
-1. Wash and rinse 6 half-pint (8 oz) freezer-safe plastic containers or glass jars with tight-fitting lids; dry thoroughly.
-2. Peel and pit the peaches. Finely chop or crush them (a potato masher works well — leave some small chunks for texture, or pulse briefly in a food processor; do not purée). Measure exactly 3 cups of crushed peaches into a large bowl.
-3. Stir the lemon juice into the peaches.
-4. Add the sugar to the peaches, stir well, and let the mixture stand for 10 minutes, stirring occasionally, so the sugar begins to dissolve.
-5. Meanwhile, combine the water and powdered pectin in a small saucepan. Bring to a boil over high heat, stirring constantly, and boil hard for exactly 1 minute, stirring the whole time. Remove from heat.
-6. Immediately pour the hot pectin mixture into the peach-sugar mixture. Stir constantly for about 3 minutes, until the sugar is completely dissolved and no longer grainy (a few sugar crystals remaining is okay).
-7. Ladle the jam into the prepared containers, leaving 1/2 inch of headspace at the top to allow for expansion in the freezer. Wipe rims clean and seal with lids.
-8. Let the filled containers stand at room temperature for 24 hours to set, then refrigerate or freeze.
+1. **Gather containers:** make sure they are clean and dry. Plastic or glass freezer-safe containers both work.
+2. **Prep peaches:** peel and pit the peaches. Finely dice and measure exactly 3 cups of diced peaches into a large bowl.
+3. **Dissolve sugar:** add one cup of sugar to the bowl and stir well. Rest 5 minutes. Repeat with the remaining sugar, adding it a little at a time and resting in between, to help the sugar dissolve completely. Stir in the lemon juice. Let the mixture rest 10 minutes. **Taste — if it's still grainy from the sugar, don't proceed until it has dissolved!** (If needed, set the heat-proof bowl over a saucepan of warm water and stir gently; the heat helps the sugar dissolve.)
+4. **Add pectin:** whisk the water and pectin in a saucepan and bring to a boil, stirring constantly. Boil 1 minute, then remove from heat and whisk into the peach mixture. Stir constantly for 3 minutes. The jam will start to thicken and will thicken more as it rests. If it seems overly runny (very juicy peaches), you can repeat the pectin process and add ½ or a full additional box.
+5. **Fill containers,** leaving ½ inch headspace. Wipe rims clean and cover with lids. Let stand at room temperature for 24 hours before freezing (this sets the jam — but feel free to enjoy one jar right away).
+6. **Store** in the refrigerator up to 3 weeks or freeze up to 1 year.
 
 ## Prep-ahead & notes
-- **This is the whole make-ahead project:** no water-bath canning needed — the jam sets with pectin and is preserved by freezing.
-- **Storage:** refrigerate up to 3 weeks, or freeze up to 12 months. Thaw frozen jam in the refrigerator before using; once thawed, keep refrigerated and use within about 3 weeks.
-- **Headspace matters:** the 1/2-inch gap prevents jars from cracking as the jam expands when frozen. Use straight-sided freezer-safe jars if using glass.
-- **⚠️ Pectin ratios are brand-specific and getting them wrong will ruin the set.** The quantities above match classic powdered pectin (Sure-Jell original, yellow box). If your pectin box insert gives different fruit/sugar/water amounts — or you use instant, low-sugar (pink box), or liquid pectin — **follow the insert in your pectin box**, not this page.
-- Do not reduce the sugar with regular pectin; the jam will not set. Use a low-sugar pectin (and its insert's ratios) if you want less sugar.
-- Ripe, fragrant peaches make the best jam; slightly underripe peaches set more firmly but taste flatter.
+- **Frozen peaches work:** thaw completely, then dice and use as instructed.
+- **Runny jam troubleshooting:** repeat step 4 with another ½–1 box of pectin.
+- The ½-inch headspace prevents cracked jars as the jam expands in the freezer.
+- Recipe adapted from Sure-Jell — if your pectin box insert differs (different brand, low-sugar, instant, or liquid pectin), follow the insert's ratios.
+- For this week: make Saturday afternoon → jars set on the counter until Sunday evening → freezer (keep one in the fridge).
