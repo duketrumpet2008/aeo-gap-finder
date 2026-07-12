@@ -18,7 +18,7 @@ Cooking for 2 adults, with planned leftovers. Tzatziki is already made.
 **📱 Phone version:** [claude.ai/code/artifact/37a8bf7d-4f60-4df4-9e67-e23930d8e869](https://claude.ai/code/artifact/37a8bf7d-4f60-4df4-9e67-e23930d8e869) — checkable shopping list (saves on-device), day-by-day timelines, and all recipes in one page.
 
 ## The files
-- **[Shopping list](shopping-list.md)** — one consolidated trip, grouped by store section, with a pantry-check section.
+- **[Shopping list](shopping-list.md)** — one consolidated trip, grouped by store section, with a pantry-check section. **The live, checkable version is in Airtable** (Food and Dining → Shopping List) — checks there sync across devices, unlike the web page.
 - **[Schedule](schedule.md)** — day-by-day timing, built backward from dinner. The only hard rails: buttermilk brine 12–24 hr; taco marinade 1–24 hr.
 - **[recipes/](recipes/)** — one file per dish.
 
